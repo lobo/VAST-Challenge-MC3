@@ -10,6 +10,6 @@ The answers are listed in the four folders in the root of the project. The docum
 
 ## Authors
 
-* [Martin Goffan](@mgoffan)
-* [Daniel Lobo](@lobo)
-* [Sebastian Maio](@SebaMaio)
+* [Martin Goffan](https://github.com/mgoffan)
+* [Daniel Lobo](https://github.com/lobo)
+* [Sebastian Maio](https://github.com/SebaMaio)
