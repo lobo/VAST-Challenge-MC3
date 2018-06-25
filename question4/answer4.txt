@@ -1,0 +1,2 @@
+Given the file with suspicious purchases, we were able to identify ten people in total that take part of them. The people that sold the item to the suspect were queried in order to find all the people that interacted with them. So out of those initial ten suspects, we created a new network with a total of 23 members. 
+These 23 members were the nodes that are shown here and represent the underlying hidden structure of suspicious activities. Specially the purchases which are highlighted in blue. It clearly centralizes the purchases in Feindt.
